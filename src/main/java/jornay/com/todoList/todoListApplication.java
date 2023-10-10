@@ -1,13 +1,13 @@
-package jornay.com.demo;
+package jornay.com.todoList;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class todoListApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(todoListApplication.class, args);
 	}
 
 }
